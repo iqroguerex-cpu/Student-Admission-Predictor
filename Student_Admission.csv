@@ -1,0 +1,16 @@
+Country,Gender,GRE_Score,CGPA,Research,Admitted
+India,Male,320,8.5,Yes,Yes
+USA,Female,315,8.0,No,No
+Germany,Male,330,9.0,Yes,Yes
+India,Female,305,7.5,No,No
+USA,Male,340,9.5,Yes,Yes
+Germany,Female,,8.2,No,No
+India,Male,300,,No,No
+USA,Female,325,8.7,Yes,Yes
+Germany,Male,310,8.1,No,No
+India,Female,295,7.2,No,No
+USA,Male,345,9.6,Yes,Yes
+Germany,Female,318,,Yes,Yes
+India,Male,290,7.0,No,No
+USA,Female,335,9.1,Yes,Yes
+Germany,Male,312,8.3,No,No
