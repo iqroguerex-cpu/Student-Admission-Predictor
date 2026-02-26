@@ -16,8 +16,16 @@ A Machine Learning web application built with **Streamlit** that predicts whethe
 
 ---
 
+## 👨‍💻 Author
+
+**Chinmay V Chatradamath**
+
+---
+
 ## 🚀 Live Demo
-> https://mlproject1bychinmay.streamlit.app/
+
+🔗 **Try the app here:**  
+https://mlproject1bychinmay.streamlit.app/
 
 ---
 
