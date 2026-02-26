@@ -17,7 +17,7 @@ A Machine Learning web application built with **Streamlit** that predicts whethe
 ---
 
 ## 🚀 Live Demo
-> (Add your deployed Streamlit link here)
+> https://mlproject1bychinmay.streamlit.app/
 
 ---
 
