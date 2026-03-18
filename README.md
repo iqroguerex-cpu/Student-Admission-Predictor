@@ -18,7 +18,7 @@ A Machine Learning web application built with **Streamlit** that predicts whethe
 
 ## 👨‍💻 Author
 
-**Chinmay V Chatradamath**
+**Chinmay V Chatradamath.**
 
 ---
 
